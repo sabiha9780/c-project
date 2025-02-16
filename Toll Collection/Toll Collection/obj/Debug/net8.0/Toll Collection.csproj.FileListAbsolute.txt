@@ -1,0 +1,14 @@
+D:\ALL EXAM\Module-3\1283410\Toll Collection\Toll Collection\bin\Debug\net8.0\Toll Collection.exe
+D:\ALL EXAM\Module-3\1283410\Toll Collection\Toll Collection\bin\Debug\net8.0\Toll Collection.deps.json
+D:\ALL EXAM\Module-3\1283410\Toll Collection\Toll Collection\bin\Debug\net8.0\Toll Collection.runtimeconfig.json
+D:\ALL EXAM\Module-3\1283410\Toll Collection\Toll Collection\bin\Debug\net8.0\Toll Collection.dll
+D:\ALL EXAM\Module-3\1283410\Toll Collection\Toll Collection\bin\Debug\net8.0\Toll Collection.pdb
+D:\ALL EXAM\Module-3\1283410\Toll Collection\Toll Collection\obj\Debug\net8.0\Toll Collection.GeneratedMSBuildEditorConfig.editorconfig
+D:\ALL EXAM\Module-3\1283410\Toll Collection\Toll Collection\obj\Debug\net8.0\Toll Collection.AssemblyInfoInputs.cache
+D:\ALL EXAM\Module-3\1283410\Toll Collection\Toll Collection\obj\Debug\net8.0\Toll Collection.AssemblyInfo.cs
+D:\ALL EXAM\Module-3\1283410\Toll Collection\Toll Collection\obj\Debug\net8.0\Toll Collection.csproj.CoreCompileInputs.cache
+D:\ALL EXAM\Module-3\1283410\Toll Collection\Toll Collection\obj\Debug\net8.0\Toll Collection.dll
+D:\ALL EXAM\Module-3\1283410\Toll Collection\Toll Collection\obj\Debug\net8.0\refint\Toll Collection.dll
+D:\ALL EXAM\Module-3\1283410\Toll Collection\Toll Collection\obj\Debug\net8.0\Toll Collection.pdb
+D:\ALL EXAM\Module-3\1283410\Toll Collection\Toll Collection\obj\Debug\net8.0\Toll Collection.genruntimeconfig.cache
+D:\ALL EXAM\Module-3\1283410\Toll Collection\Toll Collection\obj\Debug\net8.0\ref\Toll Collection.dll
